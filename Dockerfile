@@ -1,0 +1,2 @@
+FROM machinebox/fakebox
+ENV MB_KEY="ZjQ3MjYyMDg4M2E3NmY4ZjU4ZmQ2YjQxY2E0MjRkM2Q.b-20rZgLgTWdDwSHtY371Bkzekvzalha3vnz-6EDFTItvGmooZhYUy-vN_SEagpg2qahwu0aiNj2O-CPKKme4A"
